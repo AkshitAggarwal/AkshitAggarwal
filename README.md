@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![GitHub AkshitAggarwal](https://img.shields.io/github/followers/AkshitAggarwal?label=follow&style=social)](https://github.com/AkshitAggarwal)
+[![Linkedin: Akshit Aggarwal](https://img.shields.io/badge/-Akshit%20Aggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitx10/)](https://www.linkedin.com/in/akshitx10/)
+[![Twitter: Akshit Aggarwal](https://img.shields.io/twitter/follow/_akshitaggarwal?style=social)](https://twitter.com/_akshitaggarwal)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AkshitAggarwal&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Akshit%20Aggarwal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://akshitx10.medium.com/)](https://akshitx10.medium.com/)
+[![Polywork Badge](https://img.shields.io/badge/-AkshitAggarwal-orange?style=flat-square&logo=polywork&logoColor=black&link=https://www.polywork.com/akshitaggarwal)](https://www.polywork.com/akshitaggarwal)
+
+[![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshitAggarwal&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/AkshitAggarwal/github-readme-stats)
 <!--
 **AkshitAggarwal/AkshitAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
